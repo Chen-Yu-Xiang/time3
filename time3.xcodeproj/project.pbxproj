@@ -12,6 +12,7 @@
 		4396893D21EB388F00B21DCE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4396893B21EB388F00B21DCE /* Main.storyboard */; };
 		4396893F21EB388F00B21DCE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4396893E21EB388F00B21DCE /* Assets.xcassets */; };
 		4396894221EB388F00B21DCE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4396894021EB388F00B21DCE /* LaunchScreen.storyboard */; };
+		4396894A21EB3B7400B21DCE /* crayon_1-1.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4396894921EB3B7400B21DCE /* crayon_1-1.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		4396893E21EB388F00B21DCE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4396894121EB388F00B21DCE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4396894321EB388F00B21DCE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4396894921EB3B7400B21DCE /* crayon_1-1.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "crayon_1-1.ttf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				4396893721EB388F00B21DCE /* AppDelegate.swift */,
 				4396893921EB388F00B21DCE /* ViewController.swift */,
 				4396893B21EB388F00B21DCE /* Main.storyboard */,
+				4396894921EB3B7400B21DCE /* crayon_1-1.ttf */,
 				4396893E21EB388F00B21DCE /* Assets.xcassets */,
 				4396894021EB388F00B21DCE /* LaunchScreen.storyboard */,
 				4396894321EB388F00B21DCE /* Info.plist */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4396894A21EB3B7400B21DCE /* crayon_1-1.ttf in Resources */,
 				4396894221EB388F00B21DCE /* LaunchScreen.storyboard in Resources */,
 				4396893F21EB388F00B21DCE /* Assets.xcassets in Resources */,
 				4396893D21EB388F00B21DCE /* Main.storyboard in Resources */,
